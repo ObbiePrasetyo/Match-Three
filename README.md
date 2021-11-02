@@ -1,5 +1,5 @@
 # Match-Three
-Match Three Puzzle game DILo Academy
+Match Three Puzzle game
 
 # Getting Started
 1. Clone / Fork this repo
